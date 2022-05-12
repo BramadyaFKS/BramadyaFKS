@@ -1,9 +1,9 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Bramadya, I make pocketmine plugin
 
-## ðŸ”§ Technologies & Tools
+## Popular code
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -20,5 +20,5 @@ My name is Bramadya, I make pocketmine plugin
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-[![DranxX GitHub stats](https://github-readme-stats.vercel.app/api?username=BramadyaFKS)](https://github.com/BramadyaFKS/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BramadyaFKS&layout=compact)](https://github.com/BramadyaFKS/github-readme-stats)
+[![DranxX GitHub stats](https://github-readme-stats.vercel.app/api?username=BramadyaFKS)](https://github.com/BramadyaFKS/github-readme-stats)
