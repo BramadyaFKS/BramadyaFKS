@@ -3,6 +3,10 @@
 
 My name is Bramadya, I make pocketmine plugin
 
+## Visit Me
+
+[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCf7iJsGUQ0J41hl2G2TnTZQ)
+
 ## code
 ![](https://img.shields.io/badge/code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -19,7 +23,6 @@ My name is Bramadya, I make pocketmine plugin
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BramadyaFKS&layout=compact)](https://github.com/BramadyaFKS/github-readme-stats)
 [![DranxX GitHub stats](https://github-readme-stats.vercel.app/api?username=BramadyaFKS)](https://github.com/BramadyaFKS/github-readme-stats)
