@@ -1,9 +1,9 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Bramadya, I make pocketmine plugin
+My name is Bramadya, I learn several programming languages, and create plugins, sc, software, etc
 
-## Visit Me
+## Visit Me On
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCf7iJsGUQ0J41hl2G2TnTZQ)
 
