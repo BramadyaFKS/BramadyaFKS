@@ -23,6 +23,14 @@ My name is Bramadya, I learn several programming languages, and create plugins, 
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
+<a href="https://github.com/BramadyaFKS">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BramadyaFKS&layout=compact)](https://github.com/BramadyaFKS/github-readme-stats)
-[![DranxX GitHub stats](https://github-readme-stats.vercel.app/api?username=BramadyaFKS)](https://github.com/BramadyaFKS/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BramadyaFKS&count_private=true&show_icons=true&hide_border=false&custom_title=BramadyaFKS%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="BramadyaFKS GitHub Stats" />
+
+</a>
+
+<a href="https://github.com/BramadyaFKS">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BramadyaFKS&layout=compact&hide_border=true&theme=tokyonight" />
+
+</a>)
