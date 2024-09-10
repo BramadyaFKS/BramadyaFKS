@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/DranxX?label=Follow Me!&style=social" alt=Bramadya Fiqri" /> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KumaaDeveloper/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DranxX/&title=Profile%20Views)
 
 
 <a href="https://www.instagram.com/">
@@ -29,6 +29,6 @@
 ##
 ## ⭐ GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DranxX&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&theme=github_dark&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?username=DranxX&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&theme=neon&&layout=compact)
 </div>
