@@ -1,36 +1,34 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-# Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Bramadya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35 />
+<br>
+<div align="center">
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/DranxX?label=Follow Me!&style=social" alt=Bramadya Fiqri" /> 
+</p>
 
-My name is Bramadya, I learn several programming languages, and create plugins, sc, software, etc
-
-## Visit Me On
-
-[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/TheDranxX)
-
-## code
-![](https://img.shields.io/badge/code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KumaaDeveloper/&title=Profile%20Views)
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<a href="https://github.com/DranxX">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DranxX&count_private=true&show_icons=true&hide_border=false&custom_title=DranxX%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="DranxX GitHub Stats" />
-
+<a href="https://www.instagram.com/">
+  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
+</a>
+<a href="https://youtube.com/@DranxX">
+  <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/e94212a487d744cb75e75241cb93716836b2d1e2/images/svg/youtube.svg" />
+</a>
+<a href="https://x.com/">
+  <img align="left" alt="X" width="21px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
 </a>
 
-<a href="https://github.com/DranxX">
+  
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/powered-by-oxygen.svg">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img src="https://forthebadge.com/images/badges/approved-by-my-mom.svg">
+  <br>
+</p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&layout=compact&hide_border=true&theme=tokyonight" />
+##
+## ⭐ GitHub Stats
 
-</a>)
+![](https://github-readme-stats.vercel.app/api?username=DranxX&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DranxX&theme=github_dark&hide_progress=true)
+</div>
