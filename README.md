@@ -25,7 +25,7 @@ My name is Bramadya, I learn several programming languages, and create plugins, 
 <!-- Shields: https://shields.io/ -->
 <a href="https://github.com/DranxX">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BramadyaFKS&count_private=true&show_icons=true&hide_border=false&custom_title=DranxX%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="DranxX GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DranxX&count_private=true&show_icons=true&hide_border=false&custom_title=DranxX%20Github%20Stats&include_all_commits=true&hide=issues&theme=tokyonight" alt="DranxX GitHub Stats" />
 
 </a>
 
